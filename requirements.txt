@@ -1,0 +1,3 @@
+flask>=3.0.0
+# Optional official Roboflow SDK (client automatically falls back to standard-library REST if not installed)
+# inference-sdk>=0.1.0
